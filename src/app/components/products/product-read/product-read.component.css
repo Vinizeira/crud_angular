@@ -1,0 +1,25 @@
+button{
+    margin-bottom: 30px;
+}
+.app-dataform-search{
+    width: 100%;
+}
+
+table {
+    margin-top: 30px;
+    width: 100%;
+   background-color: #303030;
+}
+
+i.delete{
+    color: red;
+}
+
+i.edit{
+    margin-right: 5px;
+    color: cornflowerblue
+}
+
+.app-dataform-search input{
+width: 50%;
+}
